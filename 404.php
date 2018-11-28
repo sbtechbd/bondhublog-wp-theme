@@ -1,0 +1,1 @@
+<?php get_header();?> <div class="main_content fix floatleft"> <div class="daily_post fix"> <h1>Sorry </h1> </div> </div> <!--End main area--> <?php get_sidebar();?> <?php get_footer();?>
